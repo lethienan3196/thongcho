@@ -14,9 +14,9 @@
     "react-spinners": "^0.14.1"
   },
   "devDependencies": {
-    "@types/node": "22.7.5",
-    "@types/react": "18.3.11",
-    "typescript": "5.6.2"
+    "@types/node": "^22.7.5",
+    "@types/react": "^18.3.11",
+    "typescript": "^5.6.2"
   },
   "engines": {
     "node": ">= 10"
